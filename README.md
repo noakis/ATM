@@ -3,7 +3,7 @@ Refactoring the ATM
 
 DESCRIPTION:
 
-An online ATM using React components neede to be refactored so that Deposits and Withdrawals made would be reflected in the Account Balance corrrectly and that amounts greater than the Account Balance wouldn't be allowed.
+An online ATM using React components needed to be refactored so that Deposits and Withdrawals made would be reflected in the Account Balance corrrectly and that amounts greater than the Account Balance wouldn't be allowed.
 
 HOW TO RUN:
 
